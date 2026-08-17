@@ -1,15 +1,15 @@
 Reference,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier,Supplier Link
-SW1-SW104,Silent Linear Mechanical Switches (e.g. Gateron Silent Red),110,0.35,38.50,AliExpress,https://www.aliexpress.com
-U1,RP2040-based Microcontroller (e.g. Waveshare RP2040-Zero),1,4.99,4.99,Amazon,https://www.amazon.com
+SW1-SW87,Silent Linear Mechanical Switches (e.g. Gateron Silent Red),90,0.35,31.50,AliExpress,https://www.aliexpress.com
+U1,Orpheus Pico (RP2040),1,6.99,6.99,Hack Club,https://hackclub.com
 PCB,Custom PCB manufacture (JLCPCB 5 boards),1,12.00,12.00,JLCPCB,https://jlcpcb.com
 C1-C10,100nF Decoupling Capacitors (0402),10,0.05,0.50,LCSC,https://www.lcsc.com
 R1-R10,10k Ohm Resistors (0402),10,0.03,0.30,LCSC,https://www.lcsc.com
-D1-D104,1N4148 Signal Diodes (SOD-123),110,0.05,5.50,LCSC,https://www.lcsc.com
-STAB1-STAB8,PCB-mount Stabilizers (2u x6 + 6.25u spacebar x1 + 7u numpad x1),8,1.50,12.00,KBDfans,https://kbdfans.com
+D1-D87,1N4148 Signal Diodes (SOD-123),90,0.05,4.50,LCSC,https://www.lcsc.com
+STAB1-STAB6,PCB-mount Stabilizers (2u x5 + 6.25u spacebar x1),6,1.50,9.00,KBDfans,https://kbdfans.com
 CASE,3D Printed Case (PLA filament estimate),1,8.00,8.00,Local/Online,
 PLATE,Switch Plate (FR4 PCB material),1,5.00,5.00,JLCPCB,https://jlcpcb.com
-KEYCAPS,Full-size Keycap Set,1,25.00,25.00,AliExpress,https://www.aliexpress.com
+KEYCAPS,TKL Keycap Set,1,20.00,20.00,AliExpress,https://www.aliexpress.com
 CABLE,USB-C Cable,1,3.00,3.00,Amazon,https://www.amazon.com
 MISC,M2 Screws and standoffs (assorted),1,2.50,2.50,Amazon,https://www.amazon.com
 ,,,,,,
-,,TOTAL,,117.29,,
+,,TOTAL,,103.29,,
