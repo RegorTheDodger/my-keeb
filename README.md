@@ -1,12 +1,12 @@
-# RegorBoard 6000
+# RegorBoard 6000 TKL
 
-*A full-size custom mechanical keyboard with numpad — designed and built from scratch as part of the Hack Club KEEB grant.*
+*A tenkeyless (TKL) custom mechanical keyboard — designed and built from scratch as part of the Hack Club KEEB grant.*
 
 ---
 
 ## What is this?
 
-The RegorBoard 6000 is a completely custom-designed full-size mechanical keyboard, built from the ground up. It features a standard full layout including a numpad, function row, arrow keys, and navigation cluster. Every single part of this keyboard — the PCB, the case, and the firmware — was designed by me specifically for this project.
+The RegorBoard 6000 TKL is a completely custom-designed tenkeyless mechanical keyboard, built from the ground up. It features a standard TKL layout including a function row, arrow keys, and navigation cluster — 87 keys total. Every single part of this keyboard — the PCB, the case, and the firmware — was designed by me specifically for this project.
 
 No pre-made PCBs. No off-the-shelf cases. Just raw design work and a lot of learning.
 
@@ -14,7 +14,7 @@ No pre-made PCBs. No off-the-shelf cases. Just raw design work and a lot of lear
 
 ## Why did I build this?
 
-I wanted to go absolutely crazy with it. Building a keyboard from scratch means I get to control everything — the layout, the feel, the look, and how it behaves. The RegorBoard 6000 is my vision of what a keyboard should be: full size, silent, and entirely mine.
+I wanted to go absolutely crazy with it. Building a keyboard from scratch means I get to control everything — the layout, the feel, the look, and how it behaves. The RegorBoard 6000 TKL is my vision of what a keyboard should be: clean, silent, and entirely mine.
 
 ---
 
@@ -22,12 +22,12 @@ I wanted to go absolutely crazy with it. Building a keyboard from scratch means 
 
 | Feature | Detail |
 |---|---|
-| Layout | Full-size (104 keys + numpad) |
+| Layout | TKL (87 keys, no numpad) |
 | Switches | Silent linear mechanical switches |
-| PCB | Custom hand-routed in KiCad |
+| PCB | Custom designed with KiCad — 6 rows x 17 columns |
 | Case | Custom designed in Onshape |
 | Firmware | QMK |
-| Microcontroller | TBD during PCB design phase |
+| Microcontroller | Orpheus Pico (RP2040) |
 | Extras | None — keeping it clean |
 
 ---
