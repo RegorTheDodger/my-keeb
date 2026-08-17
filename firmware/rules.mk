@@ -1,0 +1,16 @@
+# RegorBoard 6000 - QMK Build Rules
+
+# Microcontroller - Orpheus Pico (RP2040)
+MCU = RP2040
+BOOTLOADER = rp2040
+
+# Build options
+BOOTMAGIC_ENABLE = yes
+MOUSEKEY_ENABLE = no
+EXTRAKEY_ENABLE = yes
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+NKRO_ENABLE = yes
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
+AUDIO_ENABLE = no
